@@ -127,16 +127,6 @@ curl "http://localhost:8000/departures?q=Antverpen"
 
 ---
 
-## Time Spent
-
-Approximately **[fill in your actual time]** hours total, including:
-- Reading the iRail API documentation
-- Writing and iterating on the core logic
-- Testing edge cases (short query, no departures in window, fuzzy typos)
-- Writing the README
-
----
-
 ## AI Usage
 
 See [AI_USAGE.md](AI_USAGE.md).
